@@ -1,0 +1,6 @@
+{
+   "mongoURI": "mongodb+srv://kelleymuro:Reachenterprise1@devconnector-d30zh.mongodb.net/test?retryWrites=true&w=majority",
+   "jwtSecret": "ikissedagirlandIlikedit",
+   "githubClientId": "78da725e764dfd1908e8",
+   "githubSecret": "282de147b2e367cbaac511cb8ebaf5c8ddb8a97e"
+}
